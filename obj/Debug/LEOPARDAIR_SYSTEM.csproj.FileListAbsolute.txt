@@ -1,0 +1,152 @@
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe.config
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.exe
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\bin\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.AnnabelleSeatForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.BeautyAndTheBeastSeatForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.ChangeSeatForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.LoginForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.MenuForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.NowShowingForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.PointsRedeemForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.RegisterForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.StartForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.Properties.Resources.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.TheMazeRunnerSeatForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\TGK_Cinema.TicketForm.resources
+D:\User\Desktop\C Sharp Coding\TGK_Cinema - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe.config
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.pdb
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csprojAssemblyReference.cache
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.AnnabelleSeatForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.BeautyAndTheBeastSeatForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.ChangeSeatForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.LoginForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.MenuForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.NowShowingForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.PointsRedeemForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.RegisterForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.StartForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.Properties.Resources.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.TheMazeRunnerSeatForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.TicketForm.resources
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.cache
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.exe
+C:\Users\leeje\Desktop\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe.config
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.exe
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.exe
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\bin\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.ChangeSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.LoginForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.MenuForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.NowShowingForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.PointsRedeemForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.RegisterForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.StartForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.Properties.Resources.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.TicketForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.SabahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.SarawakSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR VERSION 2  - Test\LEOPARDAIR VERSION 1  - Test\LEOPARDAIR VERSION 1  - Test\TGK_Cinema\obj\Debug\TGK_Cinema.KedahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\bin\Debug\TGK_Cinema.exe.config
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.exe
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.pdb
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\bin\Debug\LEOPARDAIR.exe.config
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.SarawakSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.SabahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.ChangeSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.LoginForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.MenuForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.NowShowingForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.PointsRedeemForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.RegisterForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.StartForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\LEOPARDAIR.Properties.Resources.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.KedahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\TGK_Cinema.TicketForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\TGK_Cinema\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe.config
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.Properties.Resources.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SarawakSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SabahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.ChangeSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.LoginForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.MenuForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.PointsRedeemForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.RegisterForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.StartForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.KedahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.TicketForm.resources
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.pdb
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.exe
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.pdb
+D:\User\Desktop\C Sharp Coding\New folder\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.FlightForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe.config
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.exe
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.pdb
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.pdb
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SarawakSeatForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SabahSeatForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.ChangeSeatForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.LoginForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.MenuForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.FlightForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.PointsRedeemForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.RegisterForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.StartForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.KedahSeatForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.TicketForm.resources
+C:\Users\Administrator\Desktop\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.pdb
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe.config
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SarawakSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SabahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.ChangeSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.LoginForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.MenuForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.FlightForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.PointsRedeemForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.RegisterForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.StartForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.Properties.Resources.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.KedahSeatForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.TicketForm.resources
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.exe
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.pdb
+D:\User\Desktop\C Sharp Coding\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe.config
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.exe
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.pdb
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.exe
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\bin\Debug\LEOPARDAIR.pdb
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SarawakSeatForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.SabahSeatForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.ChangeSeatForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.LoginForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.MenuForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.FlightForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.PointsRedeemForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.RegisterForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.StartForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR.Properties.Resources.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.KedahSeatForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.TicketForm.resources
+C:\Users\jiayo\Documents\Visual Studio 2015\Projects\LEOPARDAIR_SYSTEM\obj\Debug\LEOPARDAIR_SYSTEM.csproj.GenerateResource.Cache
